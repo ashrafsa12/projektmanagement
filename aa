@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de" xml:lang="de">
+
+<head>
+   <meta name="description" content="Everyday Natural Shop bietet die Vitamine und Mineralstoffe f&uuml;r alle Menschen an."/>
+   <meta name="keywords" content="Vitamine, Mineralstoffe, Wohlbefinden, Gesundheit"/>
+   <meta name="author" content="Erika Roncevic"/>
+   <meta name="robots" content="index,follow"/>
+   <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+   <meta http-equiv="content-language" content="de" />
+   <meta http-equiv="expires" content="0" />
+   <meta http-equiv="cache-control" content="no-cache" />
+   <meta http-equiv="pragma" content="no-cache" />
+   <title>Everyday Natural-Startseite</title>
+   <link rel="shortcut icon" href="fahrrad.ico" type="image/x-icon" />
+   <link href="seite.css" rel="stylesheet" type="text/css" media="screen" />
+   
+</head>
+<body id="startseite">
+<div id="wrapper">
+<header>
+<div id="kopfbereich">
+<p><span><strong>Die allt&auml;gliche Vitamine und Minerale, alles f&uuml;r Ihr WOHLBEFINDEN an einem Ort! </strong></span></p>
+</header>
+</div> <!-- Ende kopfbereich -->
+
+<div id="navibereich">
+		<a href="index.html">Startseite</a></li>
+		<a href="produkte.html" title="Zu unseren Produkten">Produkte</a></li>
+		<a href="kontakt.html" title="Kontakt">Kontakt</a></li>
+		<a href="registrierung.html" title="Zur Registrierung">Registrierung</a></li>
+        <a href="anmelden.html" title="Zur Anmeldung">Anmelden</a></li>
+  
+</div> <!-- Ende navibereich -->
+
+<div id="textbereich">
+<h2>Startseite</h2>
+
+<p1> Herzlich Willkommen bei Everyday Natural! 
+Bei uns k&ouml;nnen Sie alles f&uuml;r Ihr Wohlbefinden finden. Unser vielf&auml;lltiges Sortiment ist bei uns sowohl online als auch in unseren zwei Läden angeboten. <br> 
+Wenn Sie Vitaminn&auml;hrung oder Mineralstofferg&auml;nzung suchen, sind Sie bei uns genau <strong>richtig!</strong> </br></p1>
+
+<br></br>
+
+<p3><b> Bei uns sind zu finden:</b>
+<br><b> Die 13 verschiedenen Vitamine: </b> Vitamin-A, D3, E, K, B1, B2, B3, B5, B6, B7, B9, B12 und Vitamin-C. </br>
+
+<br><b> Die 8 Mineralstoffe: </b> Natrium, Kalium, Magnesium, Calcium, Zink, Selen, Jod und Eisen. </br> </p3>
+
+<br>
+<p2>F&uuml;r weitere Informationen Besuchen Sie gerne Unsere <a href="produkte.html" title="Produktseite">Produktseite</a>.</p2></br>
+
+</div> <!-- Ende textbereich -->
+
+<div id="fussbereich">
+<address>
+Everyday Natural Shop &middot; Bahnhofstr. 28 &middot; 71637 Karlsruhe
+<br />
+Tel: 0157 34414231 &middot; Fax: 0059 5432 
+</address>
+</div> <!-- Ende fussbereich -->
+
+</div> <!-- Ende wrapper -->
+</body>
+</html>
